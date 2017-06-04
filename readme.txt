@@ -1,8 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutabke index called stage.
-<<<<<<< Updated upstream
-fix bug>>>>>>>>>>>>>>>>>
-=======
-working!!!
->>>>>>> Stashed changes
+the first change.
